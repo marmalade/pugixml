@@ -12,12 +12,26 @@ Description: |
 Built-With: 5.0.3
 Filename: pugixml_1.0.0-2.mdev
 Size: 64895
-MD5Sum: 2ab232ea201e487eaea697f2aeeeb98a
+MD5Sum: 2776b9b5b27a0f6e16d9dd1f213d46eb
+
+Package-Format: 2
+Package: pugixml
+Version: 1.0.0
+Revision: 2
+Maintainer: Game Master <gamemaster@101gr.com>
+Description: |
+  pugixml is better than tinyxml!
+  Copyright (C) 2006-2010, by Arseny Kapoulkine (arseny.kapoulkine@gmail.com)
+Platform: win32
+Built-With: 5.0.3
+Filename: pugixml_1.0.0-2_win32.mdev
+Size: 490
+MD5Sum: 48bc67ebdf9056f5d785f2ed01111272
 
 Source: pugixml
 Version: 1.0.0
 Revision: 2
 Type: platform-independant
 Filename: pugixml_1.0.0-2.msrc
-Size: 65015
-MD5Sum: 6639dd33b8f0fdb5851cb676c3549db9
+Size: 65038
+MD5Sum: 4ac14c42c40226a15bda5b48b235b4bc

@@ -17,3 +17,6 @@ Contents:
  - sample/data/app.config.txt
  - sample/data/development.icf
  - sample/data/sample1.xml
+Contents-platform:
+ win32:
+  - lib/x86/README
