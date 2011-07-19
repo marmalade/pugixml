@@ -1,0 +1,19 @@
+Package: pugixml
+Version: 1.0.0
+Revision: 1
+Maintainer: Game Master <gamemaster@101gr.com>
+Description: |
+ pugixml is better than tinyxml!
+ Copyright (C) 2006-2010, by Arseny Kapoulkine (arseny.kapoulkine@gmail.com)
+Homepage: https://github.com/marmalade/pugixml
+Type: platform-independant
+Contents:
+ - pugixml.mkf
+ - src
+ - README.txt
+ - sample/main.cpp
+ - sample/pugixml.mkb
+ - sample/data/app.icf
+ - sample/data/app.config.txt
+ - sample/data/development.icf
+ - sample/data/sample1.xml
