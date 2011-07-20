@@ -1,6 +1,6 @@
 Package: pugixml
 Version: 1.0.0
-Revision: 2
+Revision: 3
 Maintainer: Game Master <gamemaster@101gr.com>
 Description: |
  pugixml is better than tinyxml!
@@ -17,6 +17,6 @@ Contents:
  - sample/data/app.config.txt
  - sample/data/development.icf
  - sample/data/sample1.xml
-Contents-platform:
- win32:
-  - lib/x86/README
+#Contents-platform:
+# win32:
+#  - lib/x86/README
